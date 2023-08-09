@@ -1,0 +1,13 @@
+datas/
+*.dat
+*.gnf
+*.jpeg
+*.json
+*.transx
+imp/
+levels/
+.vs
+obj/
+bin/
+*.csproj.user
+packages/
